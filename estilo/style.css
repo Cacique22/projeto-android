@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('/D10/pacote-projeto-d010/fontes/idroid.otf') format('opentype');
+    src: url('/fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 
@@ -56,7 +56,7 @@ header > p{
     color: white;
     max-width: 500px;
     margin: auto;
-    padding: 0'px 5px;
+    padding: 0px 5px;
     padding-bottom: 10px;
     
 }
